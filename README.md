@@ -17,9 +17,5 @@ High annotation costs for satellite imagery in remote sensing cause severe data 
 * `Mostafa_Elkholy_Landvisor_Assessment.ipynb`: Contains the full pipeline (Data preprocessing, Model Architecture, Custom Loss definition, and Training loop).
 * `Mostafa_Elkholy_Landvisor_Assessment.pdf`: A business-style technical presentation of the methodology and results.
 
-## Model Weights
-Due to GitHub's file size limits, the trained model weights (`.pth` files) are hosted externally. 
-You can download the full weights folder here: **[حط لينك جوجل درايف بتاعك هنا]**
-
 ## Impact
 By shifting from full supervision to a weakly supervised framework, this pipeline reduces the required manual annotation effort by over 90%, cutting data acquisition costs while maintaining operational accuracy.
